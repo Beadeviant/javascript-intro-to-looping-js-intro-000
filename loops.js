@@ -26,6 +26,6 @@ do {
 
   console.log ("I run once regardless.");
 
-} while (i <= int);
+} while (incrementVariable() <= int);
 
 }
